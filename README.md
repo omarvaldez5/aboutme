@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarvaldez5
-- 👀 I’m interested in ...R and Python
+- 👀 I’m interested in ... Data
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...R
+- 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...ovaldez@tuta.io
 
 <!---
