@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omarvaldez5
-- 👀 I’m interested in ... Data
+- 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Data Engineering
 - 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ...info@valdezdata.com
